@@ -1,0 +1,15 @@
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\bin\Debug\net6.0\2.1-HalloC.exe
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\bin\Debug\net6.0\2.1-HalloC.deps.json
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\bin\Debug\net6.0\2.1-HalloC.runtimeconfig.json
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\bin\Debug\net6.0\2.1-HalloC.dll
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\bin\Debug\net6.0\2.1-HalloC.pdb
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\obj\Debug\net6.0\2.1-HalloC.csproj.AssemblyReference.cache
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\obj\Debug\net6.0\2.1-HalloC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\obj\Debug\net6.0\2.1-HalloC.AssemblyInfoInputs.cache
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\obj\Debug\net6.0\2.1-HalloC.AssemblyInfo.cs
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\obj\Debug\net6.0\2.1-HalloC.csproj.CoreCompileInputs.cache
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\obj\Debug\net6.0\2.1-HalloC.dll
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\obj\Debug\net6.0\refint\2.1-HalloC.dll
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\obj\Debug\net6.0\2.1-HalloC.pdb
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\obj\Debug\net6.0\2.1-HalloC.genruntimeconfig.cache
+C:\Users\Robva\OneDrive\Documents\MNP\Demo\HalloC\obj\Debug\net6.0\ref\2.1-HalloC.dll
